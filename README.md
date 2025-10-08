@@ -1,3 +1,5 @@
+## Website de notícias
+
 Este projeto consiste no desenvolvimento de uma página dinâmica utilizando XML e XSLT, integrada com ASPX e C#. O objetivo foi criar uma plataforma que apresenta notícias extraídas de um ficheiro RSS externo, formatadas através de um template HTML/CSS.
 
 Principais Funcionalidades
